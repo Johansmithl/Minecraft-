@@ -9,32 +9,32 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "christian-communications.gl.joinmc.link",
-          "assigned_srv": "christian-communications.gl.joinmc.link",
+          "assigned_domain": "studies-dress.gl.joinmc.link",
+          "assigned_srv": "studies-dress.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "cde8a28c-d932-4045-8492-7aab8d39a52d",
-          "ip_hostname": "20.ip.gl.ply.gg",
+          "id": "22dd0e61-0520-4696-a04e-4124670b4e1e",
+          "ip_hostname": "17.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 37692,
-          "port_start": 37691,
+          "port_end": 25003,
+          "port_start": 25002,
           "region": "global",
-          "static_ip4": "147.185.221.20",
-          "tunnel_ip": "2602:fbaf:0:1::14"
+          "static_ip4": "147.185.221.17",
+          "tunnel_ip": "2602:fbaf:0:1::11"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-23T15:13:20.842207Z",
+      "created_at": "2024-09-13T02:10:26.331620Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "8709cde5-f722-4e0d-9ad9-0876fd54c3c3",
+      "id": "d534ec17-988a-46a3-8b48-be210b702c33",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "d107cd1b-347c-4376-9c8f-4cdd961072e3",
+          "agent_id": "4240e6c6-b31b-4391-b6cc-21ea41e3e949",
           "agent_name": "Minecraft ",
           "local_ip": "127.0.0.1",
           "local_port": 25565
