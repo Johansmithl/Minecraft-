@@ -1,0 +1,53 @@
+[03:23:56] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[03:23:57] [Server thread/INFO]: Loading properties
+[03:23:57] [Server thread/INFO]: Default game type: SURVIVAL
+[03:23:57] [Server thread/INFO]: Generating keypair
+[03:23:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:23:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:23:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:23:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:23:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:23:57] [Server thread/INFO]: Preparing level "world"
+[03:23:57] [Server thread/INFO]: Preparing start region for level 0
+[03:23:58] [Server thread/INFO]: Done (1.244s)! For help, type "help" or "?"
+[03:28:42] [Server thread/INFO]: johan[/10.128.230.47:63381] logged in with entity id 203 at (-147.5, 67.0, 256.5)
+[03:28:42] [Server thread/INFO]: johan joined the game
+[03:28:45] [Server thread/INFO]: johan has just earned the achievement [Taking Inventory]
+[03:28:57] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[03:29:06] [Server thread/INFO]: johan has just earned the achievement [Getting Wood]
+[03:29:35] [Server thread/INFO]: --- Showing help page 1 of 7 (/help <page>) ---
+[03:29:35] [Server thread/INFO]: /achievement give <stat_name> [player]
+[03:29:35] [Server thread/INFO]: /ban <name> [reason ...]
+[03:29:35] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[03:29:35] [Server thread/INFO]: /banlist [ips|players]
+[03:29:35] [Server thread/INFO]: /clear <player> [item] [data]
+[03:29:35] [Server thread/INFO]: /debug <start|stop>
+[03:29:35] [Server thread/INFO]: /defaultgamemode <mode>
+[03:29:45] [Server thread/INFO]: --- Showing help page 2 of 7 (/help <page>) ---
+[03:29:45] [Server thread/INFO]: /deop <player>
+[03:29:45] [Server thread/INFO]: /difficulty <new difficulty>
+[03:29:45] [Server thread/INFO]: /effect <player> <effect> [seconds] [amplifier]
+[03:29:45] [Server thread/INFO]: /enchant <player> <enchantment ID> [level]
+[03:29:45] [Server thread/INFO]: Use /forge <subcommand>. Subcommands are tps, track
+[03:29:45] [Server thread/INFO]: /gamemode <mode> [player]
+[03:29:45] [Server thread/INFO]: /gamerule <rule name> <value> OR /gamerule <rule name>
+[03:30:02] [Server thread/INFO]: Could not de-op johan
+[03:30:33] [Server thread/INFO]: --- Showing help page 3 of 7 (/help <page>) ---
+[03:30:33] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[03:30:33] [Server thread/INFO]: /help [page|command name]
+[03:30:33] [Server thread/INFO]: /kick <player> [reason ...]
+[03:30:33] [Server thread/INFO]: /kill
+[03:30:33] [Server thread/INFO]: /list
+[03:30:33] [Server thread/INFO]: /me <action ...>
+[03:30:33] [Server thread/INFO]: /list
+[03:30:43] [Server thread/INFO]: --- Showing help page 4 of 7 (/help <page>) ---
+[03:30:43] [Server thread/INFO]: /op <player>
+[03:30:43] [Server thread/INFO]: /pardon <name>
+[03:30:43] [Server thread/INFO]: /pardon-ip <address>
+[03:30:43] [Server thread/INFO]: /playsound <sound> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[03:30:43] [Server thread/INFO]: /save-all
+[03:30:43] [Server thread/INFO]: /save-off
+[03:30:43] [Server thread/INFO]: /save-on
+[03:30:51] [Server thread/INFO]: Opped johan
+[03:31:04] [Server thread/INFO]: [johan: Set own game mode to Creative Mode]
+[03:33:34] [Server thread/INFO]: [johan: Set own game mode to Survival Mode]
